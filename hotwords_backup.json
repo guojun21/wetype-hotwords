@@ -1,0 +1,595 @@
+{
+  "exported_at": "2025-12-09T20:21:40.756788",
+  "count": 84,
+  "source": "/Users/ruicheng.gu/Library/Application Support/WeType/mmkv/wetype.settings",
+  "hotwords": [
+    {
+      "id": "1765277495930",
+      "key": "",
+      "text": "slspersonaldocs/05_Q&A/!confluence.md",
+      "timestamp": 0,
+      "text_preview": "slspersonaldocs/05_Q&A/!confluence.md"
+    },
+    {
+      "id": "1764750335860",
+      "key": "",
+      "text": " slspersonaldocs/05_Q&A/.md WaybillParcelSaturngRPCLFS \"-\"YYYY-MM-DD HH:MM",
+      "timestamp": 0,
+      "text_preview": " slspersonaldocs/05_Q&A/.md WaybillParcelSaturngRPCLFS \"-\"YYYY-MM-DD HH:MM"
+    },
+    {
+      "id": "1764572473447",
+      "key": "",
+      "text": "slspersonaldocs/01_/!202512011455_.md  ",
+      "timestamp": 0,
+      "text_preview": "slspersonaldocs/01_/!202512011455_.md  "
+    },
+    {
+      "id": "1764667423144",
+      "key": "",
+      "text": "1. **2. **3. ** Markdown **",
+      "timestamp": 0,
+      "text_preview": "1. **2. **3. ** Markdown **"
+    },
+    {
+      "id": "1763607562292",
+      "key": "",
+      "text": "2000slspersonaldocs/02_/202511281530_AI",
+      "timestamp": 0,
+      "text_preview": "2000slspersonaldocs/02_/202511281530_AI"
+    },
+    {
+      "id": "1764053441016",
+      "key": "",
+      "text": "slspersonaldocs/sqltool",
+      "timestamp": 0,
+      "text_preview": "slspersonaldocs/sqltool"
+    },
+    {
+      "id": "1763741871192",
+      "key": "",
+      "text": "",
+      "timestamp": 0,
+      "text_preview": ""
+    },
+    {
+      "id": "1762680136988",
+      "key": "",
+      "text": "slspersonaldocs/02_",
+      "timestamp": 0,
+      "text_preview": "slspersonaldocs/02_"
+    },
+    {
+      "id": "1763003316949",
+      "key": "",
+      "text": "",
+      "timestamp": 0,
+      "text_preview": ""
+    },
+    {
+      "id": "1762938123977",
+      "key": "fix",
+      "text": "checkwork harddouble checkdocs/01_/!rule.md",
+      "timestamp": 0,
+      "text_preview": "checkwork harddouble checkdocs/01_/!rule.md"
+    },
+    {
+      "id": "1762837335494",
+      "key": "pptt",
+      "text": "\n\n## PPT\n\n### 1. \n- **MarkdownHTML\n- Mermaid\n- PlantUML\n\n### 2. \n- ****\n- **emoji\n- **\n- \n- \n\n### 3. \n- **\n- \n- check\n\n### 4. \n- **\n- Mermaid/PlantUML\n- \n- \"100ms\"\"99\n\n### 5. \n- \n- \n- \n- \n\n## \n\n****\n```markdown\n### \n- \n- ShardCalculator\n```\n\n****\n```markdown\n### \n- \n- ShardCalculator\n```\n\n",
+      "timestamp": 0,
+      "text_preview": "\n\n## PPT\n\n### 1. \n- **MarkdownHTML\n- Mermaid\n- PlantUML\n\n### 2. \n- ****\n- **emoji\n- **\n- \n- \n\n### 3...."
+    },
+    {
+      "id": "1762491440432",
+      "key": "",
+      "text": "etUS/BE Entrytask-golang.md",
+      "timestamp": 0,
+      "text_preview": "etUS/BE Entrytask-golang.md"
+    },
+    {
+      "id": "1762099759716",
+      "key": "prompt",
+      "text": "docs/ux/figmaPrompt/prompt-must-read.mdprompt",
+      "timestamp": 0,
+      "text_preview": "docs/ux/figmaPrompt/prompt-must-read.mdprompt"
+    },
+    {
+      "id": "1762099719547",
+      "key": "aa",
+      "text": "",
+      "timestamp": 0,
+      "text_preview": ""
+    },
+    {
+      "id": "1762099719545",
+      "key": "bb",
+      "text": "",
+      "timestamp": 0,
+      "text_preview": ""
+    },
+    {
+      "id": "1762099719543",
+      "key": "help",
+      "text": "2492053030@qq.com   514386ooo",
+      "timestamp": 0,
+      "text_preview": "2492053030@qq.com   514386ooo"
+    },
+    {
+      "id": "1762099719541",
+      "key": "dd",
+      "text": "",
+      "timestamp": 0,
+      "text_preview": ""
+    },
+    {
+      "id": "1762099719539",
+      "key": "rf",
+      "text": "rm -rf",
+      "timestamp": 0,
+      "text_preview": "rm -rf"
+    },
+    {
+      "id": "1762099719537",
+      "key": "msd",
+      "text": "",
+      "timestamp": 0,
+      "text_preview": ""
+    },
+    {
+      "id": "1762099719535",
+      "key": "mm",
+      "text": "",
+      "timestamp": 0,
+      "text_preview": ""
+    },
+    {
+      "id": "1761471094887",
+      "key": "",
+      "text": "",
+      "timestamp": 0,
+      "text_preview": ""
+    },
+    {
+      "id": "1761471081871",
+      "key": "",
+      "text": "",
+      "timestamp": 0,
+      "text_preview": ""
+    },
+    {
+      "id": "1761421589689",
+      "key": "",
+      "text": "docs",
+      "timestamp": 0,
+      "text_preview": "docs"
+    },
+    {
+      "id": "1761229276055",
+      "key": "",
+      "text": "",
+      "timestamp": 0,
+      "text_preview": ""
+    },
+    {
+      "id": "1761220859062",
+      "key": "plan",
+      "text": "planplan",
+      "timestamp": 0,
+      "text_preview": "planplan"
+    },
+    {
+      "id": "1760425271501",
+      "key": "x",
+      "text": "TonyaS29895---5TJeHjAHepWi9lh---atuzuvanb@autorambler.ru---oks1JqUUP---c15a32c22967b448ebec352e8e53a510b53b55cd---2KOTI4RGAI3M3NYA",
+      "timestamp": 0,
+      "text_preview": "TonyaS29895---5TJeHjAHepWi9lh---atuzuvanb@autorambler.ru---oks1JqUUP---c15a32c22967b448ebec352e8e53a..."
+    },
+    {
+      "id": "1760330534690",
+      "key": "",
+      "text": "logs",
+      "timestamp": 0,
+      "text_preview": "logs"
+    },
+    {
+      "id": "1760327156376",
+      "key": "",
+      "text": "rules.md",
+      "timestamp": 0,
+      "text_preview": "rules.md"
+    },
+    {
+      "id": "1758725989904",
+      "key": "sz",
+      "text": "",
+      "timestamp": 0,
+      "text_preview": ""
+    },
+    {
+      "id": "1755569261147",
+      "key": "",
+      "text": "",
+      "timestamp": 0,
+      "text_preview": ""
+    },
+    {
+      "id": "1754804231267",
+      "key": "ayq",
+      "text": " 200+ \r\n Markdown \r\n 60% ",
+      "timestamp": 0,
+      "text_preview": " 200+ \r\n Markdown \r\n 60% "
+    },
+    {
+      "id": "1754739899785",
+      "key": "wyq",
+      "text": "\r\n\r\n------\r\n\r\n**1. **\r\n\r\n- \r\n-  leader\r\n- \r\n- \r\n- \r\n\r\n------\r\n\r\n**2. **\r\n\r\n-  h1 / h2 / h3 / h4  Markdown \r\n\r\n- ** `---` \r\n\r\n-  Markdown \r\n\r\n- \r\n\r\n- <span style=\"color:green\">**123123**</span>\r\n\r\n- \r\n\r\n- ><span style=\"color:green\">****</span> WebSocket  20 30~40 \r\n  > \r\n  > **O(1) \r\n  > Redis \r\n  >  40% JVM  Redis \r\n  > \r\n\r\n------\r\n\r\n**3. **\r\n\r\n- \r\n- \r\n- \r\n\r\n------\r\n\r\n**4. **\r\n\r\n- \r\n- \r\n- \r\n\r\n------\r\n\r\n**5. **\r\n\r\n- \r\n- \r\n-  60% ",
+      "timestamp": 0,
+      "text_preview": "\r\n\r\n------\r\n\r\n**1. **\r\n\r\n- \r\n-  leader\r\n- \r\n- \r\n- \r\n\r\n------\r\n\r\n**2. **\r\n\r\n-  h1 / h2 / h3 / h4  Mar..."
+    },
+    {
+      "id": "1754376021885",
+      "key": "",
+      "text": "",
+      "timestamp": 0,
+      "text_preview": ""
+    },
+    {
+      "id": "1752388314602",
+      "key": "pys",
+      "text": "# UDOC2024\r\n\r\n---\r\n\r\n## 1. \r\n\r\n- \r\n- **  \r\n  - \r\n  - \r\n  - \r\n- \r\n\r\n---\r\n\r\n## 2. \r\n\r\n- **\r\n  - 800-900\r\n  - 32px\r\n- **\r\n  - 8-16px30%-40%\r\n  - \r\n- **\r\n  - logo\r\n\r\n---\r\n\r\n## 3. \r\n\r\n- **\r\n\r\n  - **A. **  \r\n    - \r\n      - 12-20px1.5-1.7\r\n    - \r\n      - 20-32px\r\n\r\n  - **B. **  \r\n    - \r\n    - \r\n    - \r\n    - \r\n\r\n  - **C. **  \r\n    - \r\n\r\n  - **D. **  \r\n    - \r\n\r\n---\r\n\r\n## 4. Callout Bar\r\n\r\n- \r\n- 32-54px\r\n- \r\n- 32px\r\n\r\n---\r\n\r\n## 5. \r\n\r\n- #133b7a#ffe071#ffae3e#e93b07\r\n- #fff#eaf7fb#f7fafb\r\n- Arial2.0-2.6rem1.0-1.2rem\r\n- \r\n\r\n---\r\n\r\n## 6. \r\n\r\n- \r\n- 4.5:1\r\n- hover/active\r\n- \r\n\r\n---\r\n\r\n## 7. \r\n\r\n- \r\n- \r\n- \r\n- \r\n\r\n---\r\n\r\n## 8. \r\n\r\n- \r\n- \r\n\r\n---\r\n\r\n## 9. \r\n\r\n- #133b7",
+      "timestamp": 0,
+      "text_preview": "# UDOC2024\r\n\r\n---\r\n\r\n## 1. \r\n\r\n- \r\n- **  \r\n  - \r\n  - \r\n  - \r\n- \r\n\r\n---\r\n\r\n## 2. \r\n\r\n- **\r\n  - 800-90..."
+    },
+    {
+      "id": "1752336294614",
+      "key": "pmd",
+      "text": "MarkdownMarkdownMarkdown",
+      "timestamp": 0,
+      "text_preview": "MarkdownMarkdownMarkdown"
+    },
+    {
+      "id": "1751476054614",
+      "key": "sea",
+      "text": "search with English and traditional Chinese content",
+      "timestamp": 0,
+      "text_preview": "search with English and traditional Chinese content"
+    },
+    {
+      "id": "1747047120830",
+      "key": "",
+      "text": "|                        |                   |          |                      | Owner                         | COE                                                      |                                                  |                                                      |                                                  |              |  | Bottom Level | Initial Level | Fundamental Level | Comprehensive Level | Excellent Level | Fabulous Level |\r\n| ---- | -------- | ------------------------------ | ------------------------- | ------------ | --------------------------------- | --------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------------- | ------------- | ------------ | ------------- | ----------------- | ------------------- | --------------- | -------------- |\r\n| 1    |      |                        |             | %            |                           |  00378501                   |  00386115                                              |          |                                        | =                     | 94%                     | 90%          | 0%           | 80%           |                   |                     |                 | 100%           |\r\n| 2    |      |                      | %                         |      |  00378501                   |  00386115                   |                                        | =   /                        | 1.43%                                                        | 15%                    | 100%          | 30%          |",
+      "timestamp": 0,
+      "text_preview": "|                        |                   |          |                      | Owner              ..."
+    },
+    {
+      "id": "1747047639728",
+      "key": "",
+      "text": "### 1. \r\n\r\n- **\r\n\r\n------\r\n\r\n### 2. \r\n\r\n- \r\n\r\n  \r\n\r\n  - ` xml/util/service/impl/dao/task/mapper/controller \r\n  - `\r\n  - `\r\n  - `\r\n  - `\r\n  - `\r\n  -   \r\n  -   \r\n\r\n------\r\n\r\n### 3. \r\n\r\n- **\r\n- **\r\n\r\n------\r\n\r\n### 4. \r\n\r\n- **\r\n- **\r\n- **\r\n- **\r\n\r\n------\r\n\r\n\r\n\r\n```markdown\r\nservice/impl  \r\n  \r\n  \r\n  \r\n  \r\n  \r\nxxx\r\n  \r\nxxx\r\n  \r\nxxx\r\n```\r\n\r\n------\r\n\r\n\r\n\r\n**CfilesRepresentativeBackUpTask**task/impl**\r\n\r\n------\r\n\r\ntask/impl\r\n \r\n \r\n batchNumber\r\n \r\n \r\n `batchNumber` `yyyy-MM`\r\n \r\n\r\n```java\r\nString batchNumber = DateUtil.dateToString(new Date(),\"yyyy-MM\");\r\n```\r\n\r\n\r\n\r\n```java\r\nString batchNumber = DateUtil.dateToString(new Date(),\"yyyyMMdd\"); // \r\n```\r\n\r\n\r\n\r\n------\r\n\r\ntask/impl\r\n \r\n \r\n \r\n \r\n \r\n info\r\n \r\n \r\n \r\n\r\n```java\r\nLOG.info(\"CfilesRepresentativeBackUpTask start, batchNumber={}\", batchNumber);\r\n// ... \r\nLOG.info(\"CfilesRepresentativeBackUpTask finished, total insert={}\", guestsList.size());\r\n```\r\n\r\n------\r\n\r\ntask/impl\r\n \r\n \r\n \r\n \r\n \r\n BATCH_SIZE\r\n \r\n\r\n```java\r\nfor (int index = 0; index < guestsList.size(); index = index + 500) {\r\n    int beginIndex = index;\r\n    int endIndex = index + 500;\r\n```\r\n\r\n\r\n\r\n```java\r\nprivate static final int BATCH_SIZE = 500;\r\n// ...\r\nfor (int index = 0; index < guestsList.size(); index += BATCH",
+      "timestamp": 0,
+      "text_preview": "### 1. \r\n\r\n- **\r\n\r\n------\r\n\r\n### 2. \r\n\r\n- \r\n\r\n  \r\n\r\n  - ` xml/util/service/impl/dao/task/mapper/cont..."
+    },
+    {
+      "id": "1746685913078",
+      "key": "",
+      "text": "",
+      "timestamp": 0,
+      "text_preview": ""
+    },
+    {
+      "id": "1744698305783",
+      "key": "",
+      "text": "XML\n_parameter.get(\"0\")paramMap",
+      "timestamp": 0,
+      "text_preview": "XML\n_parameter.get(\"0\")paramMap"
+    },
+    {
+      "id": "1744947223218",
+      "key": "ppt",
+      "text": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nMarkdown\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nMarkdownJSON\r\n\r\nMarkdown\r\n\r\n\r\n\r\n\r\n\r\n",
+      "timestamp": 0,
+      "text_preview": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nMarkdown\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nMarkdownJSON\r\n\r\nMarkdown\r\n\r\n..."
+    },
+    {
+      "id": "1744766788924",
+      "key": "",
+      "text": "",
+      "timestamp": 0,
+      "text_preview": ""
+    },
+    {
+      "id": "1744439048764",
+      "key": "",
+      "text": "nice",
+      "timestamp": 0,
+      "text_preview": "nice"
+    },
+    {
+      "id": "1744367488720",
+      "key": "",
+      "text": "90814825",
+      "timestamp": 0,
+      "text_preview": "90814825"
+    },
+    {
+      "id": "1743590304770",
+      "key": "zzz",
+      "text": "",
+      "timestamp": 0,
+      "text_preview": ""
+    },
+    {
+      "id": "1744365768500",
+      "key": "",
+      "text": "",
+      "timestamp": 0,
+      "text_preview": ""
+    },
+    {
+      "id": "1736259616602",
+      "key": "",
+      "text": "",
+      "timestamp": 0,
+      "text_preview": ""
+    },
+    {
+      "id": "1736260303953",
+      "key": "",
+      "text": "",
+      "timestamp": 0,
+      "text_preview": ""
+    },
+    {
+      "id": "1736260296680",
+      "key": "",
+      "text": "",
+      "timestamp": 0,
+      "text_preview": ""
+    },
+    {
+      "id": "1736260288805",
+      "key": "",
+      "text": "",
+      "timestamp": 0,
+      "text_preview": ""
+    },
+    {
+      "id": "1736260282059",
+      "key": "",
+      "text": "",
+      "timestamp": 0,
+      "text_preview": ""
+    },
+    {
+      "id": "1736260275281",
+      "key": "",
+      "text": "",
+      "timestamp": 0,
+      "text_preview": ""
+    },
+    {
+      "id": "1736260268249",
+      "key": "",
+      "text": "",
+      "timestamp": 0,
+      "text_preview": ""
+    },
+    {
+      "id": "1736260260340",
+      "key": "",
+      "text": "",
+      "timestamp": 0,
+      "text_preview": ""
+    },
+    {
+      "id": "1736260116196",
+      "key": "",
+      "text": "",
+      "timestamp": 0,
+      "text_preview": ""
+    },
+    {
+      "id": "1736260080435",
+      "key": "",
+      "text": "",
+      "timestamp": 0,
+      "text_preview": ""
+    },
+    {
+      "id": "1736260072826",
+      "key": "",
+      "text": "",
+      "timestamp": 0,
+      "text_preview": ""
+    },
+    {
+      "id": "1736260064277",
+      "key": "",
+      "text": "",
+      "timestamp": 0,
+      "text_preview": ""
+    },
+    {
+      "id": "1736260052732",
+      "key": "",
+      "text": "",
+      "timestamp": 0,
+      "text_preview": ""
+    },
+    {
+      "id": "1736260041929",
+      "key": "",
+      "text": "",
+      "timestamp": 0,
+      "text_preview": ""
+    },
+    {
+      "id": "1736259766717",
+      "key": "",
+      "text": "",
+      "timestamp": 0,
+      "text_preview": ""
+    },
+    {
+      "id": "1736259757525",
+      "key": "",
+      "text": "",
+      "timestamp": 0,
+      "text_preview": ""
+    },
+    {
+      "id": "1736259749238",
+      "key": "",
+      "text": "",
+      "timestamp": 0,
+      "text_preview": ""
+    },
+    {
+      "id": "1736259727895",
+      "key": "",
+      "text": "",
+      "timestamp": 0,
+      "text_preview": ""
+    },
+    {
+      "id": "1736259687336",
+      "key": "",
+      "text": "",
+      "timestamp": 0,
+      "text_preview": ""
+    },
+    {
+      "id": "1736259678420",
+      "key": "",
+      "text": "",
+      "timestamp": 0,
+      "text_preview": ""
+    },
+    {
+      "id": "1736259662399",
+      "key": "",
+      "text": "",
+      "timestamp": 0,
+      "text_preview": ""
+    },
+    {
+      "id": "1736259653870",
+      "key": "",
+      "text": "",
+      "timestamp": 0,
+      "text_preview": ""
+    },
+    {
+      "id": "1736259637697",
+      "key": "",
+      "text": "",
+      "timestamp": 0,
+      "text_preview": ""
+    },
+    {
+      "id": "1736259626119",
+      "key": "",
+      "text": "",
+      "timestamp": 0,
+      "text_preview": ""
+    },
+    {
+      "id": "1736259608918",
+      "key": "",
+      "text": "",
+      "timestamp": 0,
+      "text_preview": ""
+    },
+    {
+      "id": "1736259601049",
+      "key": "",
+      "text": "",
+      "timestamp": 0,
+      "text_preview": ""
+    },
+    {
+      "id": "1736259589920",
+      "key": "",
+      "text": "",
+      "timestamp": 0,
+      "text_preview": ""
+    },
+    {
+      "id": "1736259581481",
+      "key": "",
+      "text": "",
+      "timestamp": 0,
+      "text_preview": ""
+    },
+    {
+      "id": "1736259572653",
+      "key": "",
+      "text": "",
+      "timestamp": 0,
+      "text_preview": ""
+    },
+    {
+      "id": "1736259565361",
+      "key": "",
+      "text": "",
+      "timestamp": 0,
+      "text_preview": ""
+    },
+    {
+      "id": "1736259531144",
+      "key": "",
+      "text": "<br/>",
+      "timestamp": 0,
+      "text_preview": "<br/>"
+    },
+    {
+      "id": "1736257759343",
+      "key": "",
+      "text": "",
+      "timestamp": 0,
+      "text_preview": ""
+    },
+    {
+      "id": "1735191972580",
+      "key": "",
+      "text": "",
+      "timestamp": 0,
+      "text_preview": ""
+    },
+    {
+      "id": "1733900530413",
+      "key": "",
+      "text": "PromptPrompt\r\n\r\n\r\n- \r\n- \r\n- PromptPrompt Engineering\r\n- \r\n- \r\n\r\n\r\n- Prompt\r\n- \r\n- \r\n- \r\n- \r\n\r\n\r\n1. \r\n2. Prompt\r\n3. \r\n4. Prompt\r\n\r\n\r\n1. \r\n2. Prompt\r\n3. \r\n4. \r\n\r\nPrompt]",
+      "timestamp": 0,
+      "text_preview": "PromptPrompt\r\n\r\n\r\n- \r\n- \r\n- PromptPrompt Engineering\r\n- \r\n- \r\n\r\n\r\n- Prompt\r\n- \r\n- \r\n- \r\n- \r\n\r\n\r\n1. \r..."
+    },
+    {
+      "id": "1733334836985",
+      "key": "",
+      "text": "",
+      "timestamp": 0,
+      "text_preview": ""
+    },
+    {
+      "id": "1731637234626",
+      "key": "2",
+      "text": "# https://www.wmslz.com/s/RRyXFFq09mX#b a o  B:/a CA8274 2022/06/05",
+      "timestamp": 0,
+      "text_preview": "# https://www.wmslz.com/s/RRyXFFq09mX#b a o  B:/a CA8274 2022/06/05"
+    },
+    {
+      "id": "1731636755446",
+      "key": "1",
+      "text": "# https://www.wmslz.com/s/JfcuzsR099e#`z`hi  u:/s MU1246 2020/11/29",
+      "timestamp": 0,
+      "text_preview": "# https://www.wmslz.com/s/JfcuzsR099e#`z`hi  u:/s MU1246 2020/11/29"
+    },
+    {
+      "id": "1726118228257",
+      "key": "xxxx",
+      "text": "KZD7D6SHUT4RWPPN",
+      "timestamp": 0,
+      "text_preview": "KZD7D6SHUT4RWPPN"
+    }
+  ]
+}
