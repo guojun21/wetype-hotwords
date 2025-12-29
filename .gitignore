@@ -1,0 +1,58 @@
+# Dependencies
+node_modules/
+vendor/
+venv/
+env/
+.venv/
+
+# Build outputs
+dist/
+build/
+out/
+.next/
+.nuxt/
+.cache/
+.temp/
+.tmp/
+*.egg-info/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
+*.pid
+*.seed
+*.pid.lock
+
+# Environment
+.env
+.env.local
+.env.*.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Coverage
+coverage/
+.nyc_output/
+*.lcov
+
+# Misc
+*.zip
+*.tar.gz
+*.rar
